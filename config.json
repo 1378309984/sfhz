@@ -1,50 +1,45 @@
 {
 	"config": {
 		"ad1": [{
-			"id": "0",
 			"title": "首页广告",
 			"url": "https://www.baidu.com",
 			"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 		}],
 		"ad2": [{
-			"id": "0",
 			"title": "广告1",
 			"url": "https://www.baidu.com",
 			"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 		}, {
-			"id": "1",
 			"title": "广告2",
 			"url": "https://www.baidu.com",
 			"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 		}, {
-			"id": "2",
 			"title": "广告3",
 			"url": "https://www.baidu.com",
 			"imgurl": "http://img4.imgtn.bdimg.com/it/u=2845508695,2828475661&fm=26&gp=0.jpg"
 		}],
 		"data": [{
-			"id": "0",
 			"qq": "U2FsdGVkX18pOTNrTd2HLa3hh22fR1bIsm4tgCnKtoQ=",
 			"qun": "U2FsdGVkX19geSgJzVIhwfD6qccnYSzRTQ5/ykbnX4g=",
 			"qqkey": ""
 		}],
 		"update": [{
-			"id":"0",
-			"code":"0.1",
-			"url":"https://www.baidu.com/",
-			"durl":"https://www.baidu.com/"
+			"controller": "0",
+			"code": "0.1",
+			"url": "https://www.baidu.com/",
+			"durl": "https://www.baidu.com/"
 		}],
-		"notice":[{
-			"value1":"这是一条滚动公告",
-			"value2":"这是一条登录公告",
-			"value3":"",
-			"value4":""
+		"notice": [{
+			"value1": "这是一条滚动公告",
+			"value2": "这是一条登录公告",
+			"value3": "",
+			"value4": ""
 		}],
-		"backup":[{
-			"value1":"",
-			"value2":"",
-			"value3":"",
-			"value4":""
+		"backup": [{
+			"value1": "",
+			"value2": "",
+			"value3": "",
+			"value4": ""
 		}]
 	}
 }
