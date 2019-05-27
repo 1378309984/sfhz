@@ -1,6 +1,6 @@
 {
 	"config": {
-		"controller": [{
+		"cr": [{
 			"controller": "1"
 		}],
 		"update": [{
