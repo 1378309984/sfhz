@@ -2,7 +2,7 @@
 	"config": {
 		"cr": [{
 			"id":"0",
-			"controller": "0"
+			"controller": "1"
 		}],
 		"update": [{
 			"code": "1.0",
