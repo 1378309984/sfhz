@@ -33,6 +33,18 @@
 			"code":"0.1",
 			"url":"https://www.baidu.com/",
 			"durl":"https://www.baidu.com/"
+		}],
+		"notice":[{
+			"value1":"这是一条滚动公告",
+			"value2":"这是一条登录公告",
+			"value3":"",
+			"value4":""
+		}],
+		"backup":[{
+			"value1":"",
+			"value2":"",
+			"value3":"",
+			"value4":""
 		}]
 	}
 }
