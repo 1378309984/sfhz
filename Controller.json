@@ -1,7 +1,7 @@
 {
 	"config": {
 		"controller": [{
-			"controller": "true"
+			"controller": "0"
 		}],
 		"update": [{
 			"code": "1.0",
