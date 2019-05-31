@@ -1,7 +1,7 @@
 {
 	"config": {
 		"cr": [{
-			"mode":"0",
+			"mode":"1",
 			"controller": "0"
 		}],
 		"update": [{
