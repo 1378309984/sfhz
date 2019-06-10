@@ -1,7 +1,7 @@
 {
 	"config": {
 		"cr": [{
-			"zb":"1",
+			"zb":"0",
 			"yb":"0",
 			"gk":"1",
 			"controller": "0"
