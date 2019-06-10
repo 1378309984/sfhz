@@ -2,6 +2,8 @@
 	"config": {
 		"cr": [{
 			"mode":"1",
+			"zb":"1",
+			"yb":"1",
 			"controller": "0"
 		}],
 		"update": [{
