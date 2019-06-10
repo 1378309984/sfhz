@@ -1,9 +1,9 @@
 {
 	"config": {
 		"cr": [{
-			"mode":"1",
+			"mode":"0",
 			"zb":"1",
-			"yb":"1",
+			"yb":"0",
 			"controller": "0"
 		}],
 		"update": [{
